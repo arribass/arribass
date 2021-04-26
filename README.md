@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+- github-readme-stats-arribas.vercel.app
+- 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
 -->
 ## Github Stats
 
+[![Arribass's GitHub stats](https://github-readme-stats-arribas.vercel.app/api?username=arribass&count_private=true&theme=vue-dark&hide=contribs,issues&show_icons=true&hide_border=true)](https://github.com/arribass/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&exclude_repo=github-readme-stats&layout=compact&theme=vue-dark)](https://github.com/arribass/github-readme-stats)

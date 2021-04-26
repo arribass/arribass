@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 ## Github Stats
 
-[![Arribass's GitHub stats](https://github-readme-stats-arribas.vercel.app/api?username=arribass&count_private=true&theme=vue-dark&hide=contribs,issues&show_icons=true&hide_border=true)](https://github.com/arribass/github-readme-stats)
+

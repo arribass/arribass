@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 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
 -->
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats-arribas.vercel.app/api?username=arribass&theme=vue-dark)](https://github.com/arribass/github-readme-stats)
+
+![Arribass's GitHub stats](https://github-readme-stats-arribas.vercel.app/api?username=arribass&show_icons=true&hide=contribs,issues&hide_border=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/arribass/github-readme-stats)

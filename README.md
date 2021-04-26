@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 ## Github Stats
 
 [![Arribass's GitHub stats](https://github-readme-stats-arribas.vercel.app/api?username=arribass&count_private=true&theme=vue-dark&hide=contribs,issues&show_icons=true&hide_border=true)](https://github.com/arribass/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&exclude_repo=github-readme-stats&layout=compact&theme=vue-dark)](https://github.com/arribass/github-readme-stats)

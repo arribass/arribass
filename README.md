@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - github-readme-stats-arribas.vercel.app
 - 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
 -->
+## Mis Stats
+
+<p align="center">
+<a href="https://github.com/arribass">
+  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api?username=arribass&hide_border=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&hide_border=true&layout=compact&langs_count=8&theme=vue-dark" />
+</a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -26,11 +35,3 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-## Mis Stats
-
-<p align="center">
-<a href="https://github.com/arribass">
-  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api?username=arribass&hide_border=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&hide_border=true&layout=compact&langs_count=8&theme=vue-dark" />
-</a>
-</p>

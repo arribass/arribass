@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - github-readme-stats-arribas.vercel.app
 - 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
 -->
-## Github Stats
+## Mis Stats
 
 <p align="center">
 <a href="https://github.com/arribass">

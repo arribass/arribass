@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/arribass/github-readme-stats)
-
-[![Arribass's GitHub stats](https://github-readme-stats-arribas.vercel.app/api?username=arribass&include_all_commits=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=vue-dark)](https://github.com/arribass/github-readme-stats)
+<p>
+<a href="https://github.com/arribass">
+  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api?username=arribass&include_all_commits=true&show_icons=true&hide=contribs,issues&hide_border=true&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&layout=compact&hide_border=true&theme=vue-dark" />
+</a>
+</p>

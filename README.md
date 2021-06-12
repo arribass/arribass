@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://github.com/arribass">
-  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api?username=arribass&hide_border=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api?username=arribass&hide_border=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=contribs&hide=issues&count_private=true" />
   <img height="180em" src="https://github-readme-stats-arribas.vercel.app/api/top-langs/?username=arribass&hide_border=true&layout=compact&langs_count=8&theme=vue-dark" />
 </a>
 </p>

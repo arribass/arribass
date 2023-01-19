@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - github-readme-stats-arribas.vercel.app
 - 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
 -->
+## Career
+
+Currently a Salesforce Developer at NTS Seidor
 ## Mis Stats
 
 <p>
@@ -23,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-
+![Python](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;

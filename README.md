@@ -1,8 +1,6 @@
 <!--
 **arribass/arribass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,13 +8,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
-- github-readme-stats-arribas.vercel.app
-- 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
 -->
+
 ## Career
 
-Currently a Salesforce Developer at NTS Seidor
-## Mis Stats
+🔭 Currently a **Salesforce Developer** at NTS Seidor
+
+### 🎓 Salesforce Certifications
+
+Some of my Salesforce certifications:
+
+<p align="left">
+  <img src="resources/AdminCert.png" alt="Salesforce Admin Certification" width="100" style="margin-right: 10px;"/>
+  <img src="resources/PD1Cert.png" alt="Platform Developer I Certification" width="100"/>
+</p>
+
+## My Stats
 
 <p>
 <a href="https://github.com/arribass">
@@ -26,7 +33,8 @@ Currently a Salesforce Developer at NTS Seidor
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
+
+![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
